@@ -1,0 +1,47 @@
+*{
+background:black;
+}
+.navbar{
+display:flex;
+justify-content:space-between;
+align-items:center;
+padding:15px 50px;
+color:white;
+
+}
+.navbar button{
+color:white;
+background:#1ba0de;
+}
+.navbar ul{
+list-style:none;
+display:flex;
+gap:20px;
+}
+.navbar ul li {
+ list-style:none;
+ justify-element:
+ 
+ }
+ .navbar ul li a{
+  color: white;
+  background-color: transparent;
+  text-decoration: none;
+}
+#pera01{
+color:#1ba0de;
+text-align: justify;
+font-size: 22px;
+text-justify: inter-word;
+margin-left:200px;
+margin-right:200px
+}
+#pera02{
+color:#ab0cf5;
+font-size: 28px;
+margin-left:680px
+}
+.logos{
+	margin-top:400px;
+	margin-left:1300px
+}
