@@ -20,14 +20,16 @@ gap:20px;
 }
 .navbar ul li {
  list-style:none;
- justify-element:
- 
- }
+}
  .navbar ul li a{
   color: white;
   background-color: transparent;
   text-decoration: none;
 }
+ .navbar ul li a:hover{
+
+   color:red;
+ }
 #pera01{
 color:#1ba0de;
 text-align: justify;
@@ -39,9 +41,10 @@ margin-right:200px
 #pera02{
 color:#ab0cf5;
 font-size: 28px;
-margin-left:680px
+margin-left:750px
 }
 .logos{
 	margin-top:400px;
-	margin-left:1300px
+	margin-left:1300px;
+	
 }
